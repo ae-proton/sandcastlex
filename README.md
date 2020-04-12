@@ -52,7 +52,7 @@ You can ask alive players about the location.
 You can use <b>0</b> (zero key) to open map which helps to understand key locations.
 
 ## 7. Is there a Discord server for this game? I have more questions!
-Yes, Discord link is located top of your screen. If it doesn't appear there, here is direct link: https://discord.gg/QHdm5BA
+Yes, Discord link is located top of your screen. If it doesn't appear there, here is direct link: [https://discord.gg/QHdm5BA](https://discord.gg/QHdm5BA)
 
 
 
