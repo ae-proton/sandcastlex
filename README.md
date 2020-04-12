@@ -1,7 +1,9 @@
 # Welcome to Sandcastle 1.X FAQ
+To make the game enjoyable, please read some basic help about the mod.\
+Keybinds are listed at the bottom! 
 
 
-## 1. I joined but cannot play!
+## 1. I joined the game but cannot spawn!
 
 That's because Horde mode is PvE (Player vs Entity) cooperation mode.
 To spawn, <b> you must wait for current wave to be finished</b>. \
@@ -23,7 +25,7 @@ Start by getting inside the castle, and depending on your gold, buy yourself a w
 
 ## 4. I am skeleton, and I lost my weapons!
 You are skeleton because you died last wave.
-As a skeleton, You must surivive 180 seconds (3 minutes) without dying.\
+As a skeleton, You must surivive 180 seconds (3 minutes) without dying to get your stuff back.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>If you survive</b>: you will be changed into human again with your <b>weapons back<b>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>If you die</b>: you will <b>loose your weapons</b>
   
@@ -32,4 +34,4 @@ Lightsabers can be <b>picked up from the ground</b> if Jedi drops it after death
 
 ## 6. How do I find location of weapons/upgrades?
 You can ask alive players about the location. \
-You can use <b>0</b> (zero key) to open map.
+You can use <b>0</b> (zero key) to open map which helps to understand key locations.
