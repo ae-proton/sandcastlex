@@ -6,8 +6,10 @@ Keybinds are listed at the bottom!
 ## 1. I joined the game but cannot spawn!
 
 That's because Horde mode is PvE (Player vs Entity) cooperation mode.
-To spawn, <b> you must wait for current wave to be finished</b>. \
-If You are not sure how long it will take, just ask alive players.
+
+To spawn, <b> you must wait for current wave to be finished</b>. 
+
+If You are not sure <b>how long</b> it will take, just ask alive players.
 
 ## 2. How do start?
 
@@ -34,8 +36,11 @@ READ CAREFULLY WHAT YOU ARE BUYING! SOME UPGRADES ARE ONE-TIME USE ONLY! YOU LOO
 
 ## 4. I am skeleton, and I lost my weapons!
 You are skeleton because you died last wave.
+
 As a skeleton, You must surivive 180 seconds (3 minutes) without dying to get your stuff back.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>If you survive</b>: you will be changed into human again with your <b>weapons back<b>
+  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>If you die</b>: you will <b>loose your weapons</b>
   
 ## 5. I saw a Jedi with lightsaber / player with lightsaber. Can I have it too?
