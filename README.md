@@ -33,5 +33,5 @@ As a skeleton, You must surivive 180 seconds (3 minutes) without dying to get yo
 Lightsabers can be <b>picked up from the ground</b> if Jedi drops it after death. Lightsaber drop chance is <b>10%</b>
 
 ## 6. How do I find location of weapons/upgrades?
-You can ask alive players about the location. 
+You can ask alive players about the location. \
 You can use <b>0</b> (zero key) to open map which helps to understand key locations.
