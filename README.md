@@ -53,3 +53,20 @@ You can use <b>0</b> (zero key) to open map which helps to understand key locati
 
 ## 7. Is there a Discord server for this game? I have more questions!
 Yes, Discord link is located top of your screen. If it doesn't appear there, here is direct link: https://discord.gg/QHdm5BA
+
+
+
+
+
+
+
+
+# KEYBINDS
+
+
+### F1 - Teleport to throne room (works once per wave)
+### F4 - Drink HP Potion (if you bought them from Mason Barn)
+### F5 - Drunk-fast skeleton mode (makes you faster, works only if you are skeleton)
+### F6 - Quick tips about gameplay and list of admins
+### G - Backjump (if you bought Backjump ability)
+### 0 - Simple Map (it's zero key, not the O like OK)
