@@ -11,7 +11,7 @@ To spawn, <b> you must wait for current wave to be finished</b>.
 
 If You are not sure <b>how long</b> it will take, just ask alive players.
 
-## 2. How do start?
+## 2. How to start playing?
 
 ### Player's goal is to survive as long as you can.
 Start by getting inside the castle (using ladder), and depending on your gold, buy yourself a weapon.
@@ -69,4 +69,5 @@ Yes, Discord link is located top of your screen. If it doesn't appear there, her
 ### F5 - Drunk-fast skeleton mode (makes you faster, works only if you are skeleton)
 ### F6 - Quick tips about gameplay and list of admins
 ### G - Backjump (if you bought Backjump ability)
-### 0 - Simple Map (it's zero key, not the O like OK)
+### 5 - This Quick Help FAQ page
+### 6 - Simple Map (it's zero key, not the O like OK)
