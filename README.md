@@ -37,7 +37,7 @@ READ CAREFULLY WHAT YOU ARE BUYING! SOME UPGRADES ARE ONE-TIME USE ONLY! YOU LOO
 ## 4. I am skeleton, and I lost my weapons!
 You are skeleton because you died last wave.
 
-As a skeleton, You must surivive 180 seconds (3 minutes) without dying to get your stuff back.
+As a skeleton, You must survive 180 seconds (3 minutes) without dying to get your stuff back.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>If you survive</b>: you will be changed into human again with your <b>weapons back</b>
   
